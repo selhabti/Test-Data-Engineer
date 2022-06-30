@@ -6,5 +6,5 @@ https://github.com/selhabti/Test-Data-Engineer/blob/327c082c3ac5802f4ce581c2f683
 pour le "google colab":
 [Voici le lien](https://colab.research.google.com/gist/selhabti/261b05a58b7ebbce337c35535a313804/test-data-engineer.ipynb)
 ## Requête SQL (partie 4) et le résultat produit par cette requête
-
+Query 4.png
 
